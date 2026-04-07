@@ -41,10 +41,7 @@ The following results were achieved regarding the number of failures found:
 | Exida     | 4405.17        | 550.65                  |
 | Warnless  | 6229.34        | 778.67                  |
 
-
-
-We thank all participants for the contributions!
-
+We thank all participants for taking part in the competition.
 
 Lev Sorokin,
 Ivan Vasilev,
